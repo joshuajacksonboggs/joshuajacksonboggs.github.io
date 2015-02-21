@@ -3,6 +3,14 @@
     <title>Joshua Jackson Boggs</title>
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        $("#p").click(function(){
+            $("#projects").toggle();
+        });
+    });
+    </script>
   </head>
   <body>
     <nav>
@@ -11,7 +19,7 @@
     </nav>
     <div class="container">
       <div class="name">
-        <center><h1>Joshua Jackson Boggs</h1></center>
+        <center><h1><a href="index.html" class="h">Joshua Jackson Boggs</a></h1></center>
       </div><!-- /.blurb -->
     </div><!-- /.container -->
     <footer>
@@ -20,7 +28,15 @@
           <li><a href="mailto:joshua.j.boggs@gmail.com">email</a></li>
           <li><a href="https://twitter.com/Joshboggs">twitter</a></li>
           <li><a href="https://github.com/joshuajacksonboggs">github</a></li>
+          <li id="p">projects</li>
           <li><a href="https://keybase.io/joshboggs/key.asc">pgp</a></li>
+        </ul>
+      </center>
+      <center id="projects" style="display:none">
+        <ul>
+          <li><a href="http://www.columbia.edu/~jjb2175/">GestureTube</a></li>
+          <li><a href="http://tunetravelr.herokuapp.com/">TuneTravelr</a></li>
+          <li><a href="http://columbiaesc.com/">ColumbiaESC</a></li>
         </ul>
       </center>
     </footer>
