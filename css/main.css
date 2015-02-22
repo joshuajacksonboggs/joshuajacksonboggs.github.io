@@ -34,6 +34,12 @@ a.h:hover {
 #p:hover {
     text-decoration: underline;
 }
+#f {
+    color: #999;
+}
+#f:hover {
+    text-decoration: underline;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

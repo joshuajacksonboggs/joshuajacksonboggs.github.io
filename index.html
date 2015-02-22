@@ -8,6 +8,10 @@
     $(document).ready(function(){
         $("#p").click(function(){
             $("#projects").toggle();
+            $('#font:visible').toggle();
+        });
+        $("#f").click(function(){
+            $("#font").toggle();
         });
     });
     </script>
@@ -37,7 +41,13 @@
           <li><a href="http://www.columbia.edu/~jjb2175/">GestureTube</a></li>
           <li><a href="http://tunetravelr.herokuapp.com/">TuneTravelr</a></li>
           <li><a href="http://columbiaesc.com/">ColumbiaESC</a></li>
+          <li id="f">font</li>
         </ul>
+      </center>
+      <center id="font" style="display:none">
+        <a href="www.columbia.edu/~jjb2175/Joshua_Jackson.ttf">
+          <img src="images/font.png" alt="font">
+        </a>
       </center>
     </footer>
   </body>
