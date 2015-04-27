@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/joshboggs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joshuajacksonboggs.me
+  * I am joshboggs (https://keybase.io/joshboggs) on keybase.
+  * I have a public key with fingerprint C439 7C16 08B6 F050 FFC3  064A 0D38 FC2D 8DC8 0DBC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c4397c1608b6f050ffc3064a0d38fc2d8dc80dbc",
+            "host": "keybase.io",
+            "key_id": "0d38fc2d8dc80dbc",
+            "kid": "01011561b6f54f5990bdfd9d7974dc7cb114866b6f0dc6c4f0eef5ef6e417939d79b0a",
+            "uid": "2aeadd0012f96e7ca81db18614120f00",
+            "username": "joshboggs"
+        },
+        "revoke": {
+            "sig_ids": [
+                "54c1dac94ca49e8a0af64b0d2aebcd81e28a2956b619e214974bea4808f7e4f00f"
+            ]
+        },
+        "service": {
+            "hostname": "joshuajacksonboggs.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430102709,
+    "expire_in": 157680000,
+    "prev": "b6bac5a6f2fd763d1e281b3bc954c459d723fdecd5584ea47a7bdb7103b98dec",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMJlAnicbZJdaBRXGIZ31USzIqRVL0S04WBbKFk9Z+bMzJmNJlXBxoJQJFZK1Xh+
+dydrZ9ad2azBRhSLIqJBbxQsjUpRpNTaigrV9XcV/MGbGCEIpUil/lRFFBUT0TPR
+ghfOzTDfeb/nfb9vTnXcyEQqeT6zNb1/+9lvkpfP7CslFs3ae2Q1YIHoApnVIC+H
+X8rzs7JYKHp+BDKAY9N1OLIhYbaCFlSKm9DGFAqTKG4IIjiBgnHQCHJBGHdoDKOh
+nO4FuqY/2j2hq+/R598cIIiQZSONt7CyXBcyoYQrHNfBgjucIYSJbcfugtscKyil
+sqSyJUaOa8ZCBqnGlYZxBpVUCAiRoVxbOpwSJBgiNsLIgArCWBjKok+/k1rdEYQ5
+FmSzIehuBEXZGeRlvILQy+rUIch8CyzMkaDcxZxiVxIKqbIxg0L7MC4Ikgahhmvp
+fMiVBsI6NZMUE0iUI3VYqMBSzdaWnR4fhsdrese+RDsoz4eBP5xjuq43gkIxiAIe
+rNCSXBQVMnG6qKsQt5Qla38La2eeL/TP0g2dshh6gQ8ySCt55MV0hE29W8OBbiOQ
+qwpeUbZ7scJybAL1E9vITo1kNqPcorYylHBsU8QzIWYy7urhsaU3bJhKSC4si2A9
+m0MdJpiDoMlcousgHm+lH4AM1jFpViP1An0alYoSdJ89vWRUIplK1NaMiK9bIlVX
+//8lPHV4TKI6MHKwb8ruE1+8OiTJ5w/3fJT+8v7EQ1fKG5fnju3s3XGr5oehdb2j
+R306JRFZDc+Hmn5fePD+wZbmB9OaZrZcTdrdS6/WyjnVx7sGrr+Ynd57c+qYRcdU
+um3ugRlH6hYsq5k1/qu+Ldne1vWvxnadufX04wtr6xouWz13+7/Okdb8Qvbs4po9
+TZubFx+vrw3rPa/y06+XCid3TuL9pce3cXLg7xt06oN/toXLmud/suHok7J/47cP
+79xLb/prw9DghL4f+/87vfjuxD+vP+up/Ptzau6FeVFD26WZv0Tf3zu5FVbJH2X/
+5WRZSXw24mj18POxj3oGywNPK8c/6Ghdsb4y/tyaa0Y61fIaZZpNgg==
+=rdgu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshboggs
+
+==================================================================
